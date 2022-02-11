@@ -1,17 +1,17 @@
 package com.task001;
 
 public interface ThreeStrings {
+    void readFirst();
 
-	void readFirst();
+    void readSecond();
 
-	void readSecond();
+    void readThird();
 
-	void readThird();
+    void printFirstAndThird();
 
-	void printFirstAndThird();
+    void printThirdSecondAndFirst();
 
-	void printThirdSecondAndFirst();
-
-	void printFirstSecondAndThird();
+    void printFirstSecondAndThird();
 
 }
+
