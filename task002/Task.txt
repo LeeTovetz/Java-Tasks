@@ -1,0 +1,9 @@
+Task 002 -> 
+Write a program that reads a 5-digit number 
+from the keyboard and outputs the numbers it consists of. 
+For example : It reads the number 54698;
+5
+4
+6
+9
+8
