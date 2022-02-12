@@ -7,7 +7,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task002" >Task 002</a> -> Write a program that reads a 5-digit number from the keyboard and outputs the numbers it consists of. For example : It reads the number 54698;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task003" >Task 003</a> -> Write a program that calculates and displays the area of a triangle if its sides are known;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task004" >Task 004</a> -> Write a program that calculates and displays the length of a circle if its radius is read from the keyboard;<br>
-Task 005 -> ;<br>
+Task 005 -> Write a program that counts 4 numbers from the keyboard and displays the largest of them;<br>
 Task 006 -> ;<br>
 Task 007 -> ;<br>
 Task 008 -> ;<br>
