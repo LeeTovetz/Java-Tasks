@@ -8,7 +8,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task003" >Task 003</a> -> Write a program that calculates and displays the area of a triangle if its sides are known;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task004" >Task 004</a> -> Write a program that calculates and displays the length of a circle if its radius is read from the keyboard;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task005" >Task 005</a> -> Write a program that counts 4 numbers from the keyboard and displays the largest of them;<br>
-Task 006 -> There is a nine-story house with four entrances. The number of the entryway begins with one. There are 4 apartments on one floor. Write a program that gets the number of the apartment from the keyboard, and displays on the screen what floor, what entryway is this apartment. If there is no such apartment in this house, you need to inform the user about it;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task006" >Task 006</a> -> There is a nine-story house with four entrances. The number of the entryway begins with one. There are 4 apartments on one floor. Write a program that gets the number of the apartment from the keyboard, and displays on the screen what floor, what entryway is this apartment. If there is no such apartment in this house, you need to inform the user about it;<br>
 Task 007 -> ;<br>
 Task 008 -> ;<br>
 Task 009 -> ;<br>
