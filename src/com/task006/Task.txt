@@ -1,0 +1,8 @@
+Task 006 -> 
+There is a nine-story house with four entrances. 
+The number of the entryway begins with one. 
+There are 4 apartments on one floor. Write a program 
+that gets the number of the apartment from the keyboard, 
+and displays on the screen what floor, what entryway 
+is this apartment. If there is no such apartment 
+in this house, you need to inform the user about it;
