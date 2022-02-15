@@ -1,0 +1,4 @@
+Task 008 -> 
+A triangle exists only if the sum of any two sides is greater 
+than the third. Given: a, b, c are the sides of the supposed 
+triangle. Write a program that indicates "whether such a triangle exists or not";
