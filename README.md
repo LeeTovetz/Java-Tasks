@@ -11,7 +11,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task006" >Task 006</a> -> There is a nine-story house with four entrances. The number of the entryway begins with one. There are 4 apartments on one floor. Write a program that gets the number of the apartment from the keyboard, and displays on the screen what floor, what entryway is this apartment. If there is no such apartment in this house, you need to inform the user about it;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task007" >Task 007</a> -> Determine the number of days in the year that the user enters. A leap year has 366 days, while a normal year has 365 days. Leap years are all years divisible by 4 with the exception of centuries, which are not divisible by 400;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task008" >Task 008</a> ->  A triangle exists only if the sum of any two sides is greater than the third. Given: a, b, c are the sides of the supposed triangle. Write a program that indicates "whether such a triangle exists or not";<br>
-Task 009 -> There is a circle with center at the origin and radius 4. The user enters the coordinates of the point x and y from the keyboard. Write a program that determines whether this point lies within the circle or not;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task009" >Task 009</a> -> There is a circle with center at the origin and radius 4. The user enters the coordinates of the point x and y from the keyboard. Write a program that determines whether this point lies within the circle or not;<br>
 Task 010 -> ;<br>
 ##
 Task 011 -> ;<br>
