@@ -16,3 +16,22 @@ Task 010 -> This triangle has coordinates of vertices A(0,0), B(4,4), C(6,1). Th
 ##
 Task 011 -> ;<br>
 Task 012 -> ;<br>
+Task 013 -> ;<br>
+Task 014 -> ;<br>
+Task 015 -> ;<br>
+Task 016 -> ;<br>
+Task 017 -> ;<br>
+Task 018 -> ;<br>
+Task 019 -> ;<br>
+Task 020 -> ;<br>
+##
+Task 021 -> ;<br>
+Task 022 -> ;<br>
+Task 023 -> ;<br>
+Task 024 -> ;<br>
+Task 025 -> ;<br>
+Task 026 -> ;<br>
+Task 027 -> ;<br>
+Task 028 -> ;<br>
+Task 029 -> ;<br>
+Task 030 -> ;<br>
