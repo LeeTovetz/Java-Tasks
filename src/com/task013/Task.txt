@@ -1,0 +1,3 @@
+Task 013 -> 
+Use cycles to draw the "wallpaper". 
+And the number of strips must be entered from the keyboard.;
