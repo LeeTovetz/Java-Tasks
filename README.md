@@ -14,7 +14,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task009" >Task 009</a> -> There is a circle with center at the origin and radius 4. The user enters the coordinates of the point x and y from the keyboard. Write a program that determines whether this point lies within the circle or not;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task010" >Task 010</a> -> This triangle has coordinates of vertices A(0,0), B(4,4), C(6,1). The user enters the coordinates of the points x and y on the keyboard. Write a program that determines whether this point lies within the triangle or not;<br>
 ##
-Task 011 -> ;<br>
+Task 011 -> A four-digit number is given. Check if it is a "lucky ticket". A lucky ticket is a number in which - with an even number of digits in the number, the sum of digits in its left half is equal to the sum of digits in its right half. For example, 1322. (1+3 = 2 + 2);<br>
 Task 012 -> ;<br>
 Task 013 -> ;<br>
 Task 014 -> ;<br>
@@ -35,3 +35,14 @@ Task 027 -> ;<br>
 Task 028 -> ;<br>
 Task 029 -> ;<br>
 Task 030 -> ;<br>
+##
+Task 031 -> ;<br>
+Task 032 -> ;<br>
+Task 033 -> ;<br>
+Task 034 -> ;<br>
+Task 035 -> ;<br>
+Task 036 -> ;<br>
+Task 037 -> ;<br>
+Task 038 -> ;<br>
+Task 039 -> ;<br>
+Task 040 -> ;<br>
