@@ -15,7 +15,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task010" >Task 010</a> -> This triangle has coordinates of vertices A(0,0), B(4,4), C(6,1). The user enters the coordinates of the points x and y on the keyboard. Write a program that determines whether this point lies within the triangle or not;<br>
 ##
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task011" >Task 011</a> -> A four-digit number is given. Check if it is a "lucky ticket". A lucky ticket is a number in which - with an even number of digits in the number, the sum of digits in its left half is equal to the sum of digits in its right half. For example, 1322. (1+3 = 2 + 2);<br>
-Task 012 -> ;<br>
+Task 012 -> A six-digit number is entered from the keyboard. Check to see if it is a palindrome. Note: A palindrome is a number, word, or text that reads equally from left to right and right to left. For example, the numbers are 143341, 5555, 7117, etc.;<br>
 Task 013 -> ;<br>
 Task 014 -> ;<br>
 Task 015 -> ;<br>
