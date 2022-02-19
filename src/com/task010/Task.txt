@@ -2,3 +2,21 @@ Task 010 ->
 This triangle has coordinates of vertices A(0,0), B(4,4), C(6,1). 
 The user enters the coordinates of the points x and y on the keyboard. 
 Write a program that determines whether this point lies within the triangle or not;
+
+Тут как решить эту задачу. 
+по факту это формула. если кратко)))
+
+https://www.cyberforum.ru/algorithms/thread144722.html
+
+Математическая часть - векторное и псевдоскалярное произведения.
+Реализация - считаются произведения (1, 2, 3 - вершины треугольника, 0 - точка):
+(x1 - x0) * (y2 - y1) - (x2 - x1) * (y1 - y0)
+(x2 - x0) * (y3 - y2) - (x3 - x2) * (y2 - y0)
+(x3 - x0) * (y1 - y3) - (x1 - x3) * (y3 - y0)
+Если они одинакового знака, то точка внутри треугольника, 
+если что-то из этого - ноль, то точка лежит на стороне, иначе точка вне треугольника.
+
+https://www.cyberforum.ru/mathematics/thread8234.html
+
+
+https://www.cyberforum.ru/delphi-beginners/thread652199.html
