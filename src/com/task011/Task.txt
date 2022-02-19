@@ -1,0 +1,7 @@
+Task 011 -> 
+A four-digit number is given. 
+Check if it is a "lucky ticket". A lucky ticket is a number in which 
+- with an even number of digits in the number, 
+the sum of digits in its left half is equal to 
+the sum of digits in its right half. For example, 
+1322. (1+3 = 2 + 2);
