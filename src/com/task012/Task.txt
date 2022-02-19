@@ -1,0 +1,6 @@
+Task 012 -> 
+A six-digit number is entered from the keyboard. 
+Check to see if it is a palindrome. 
+Note: A palindrome is a number, word, 
+or text that reads equally from left to right and 
+right to left. For example, the numbers are 143341, 5555, 7117, etc.;
