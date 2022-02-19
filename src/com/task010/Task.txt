@@ -1,0 +1,4 @@
+Task 010 -> 
+This triangle has coordinates of vertices A(0,0), B(4,4), C(6,1). 
+The user enters the coordinates of the points x and y on the keyboard. 
+Write a program that determines whether this point lies within the triangle or not;
