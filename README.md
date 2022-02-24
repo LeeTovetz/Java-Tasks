@@ -17,7 +17,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task011" >Task 011</a> -> A four-digit number is given. Check if it is a "lucky ticket". A lucky ticket is a number in which - with an even number of digits in the number, the sum of digits in its left half is equal to the sum of digits in its right half. For example, 1322. (1+3 = 2 + 2);<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task012" >Task 012</a> -> A six-digit number is entered from the keyboard. Check to see if it is a palindrome. Note: A palindrome is a number, word, or text that reads equally from left to right and right to left. For example, the numbers are 143341, 5555, 7117, etc.;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task013" >Task 013</a> -> Use cycles to draw the "wallpaper". And the number of strips must be entered from the keyboard;<br>
-Task 014 -> Use the loop to calculate the factorial of the number - n entered from the keyboard (4 < n < 16). The factorial of a number is the product of all numbers from that number to 1. For example 5!=5*4*3*2*1=120;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task014" >Task 014</a> -> Use the loop to calculate the factorial of the number - n entered from the keyboard (4 < n < 16). The factorial of a number is the product of all numbers from that number to 1. For example 5!=5*4*3*2*1=120;<br>
 Task 015 -> ;<br>
 Task 016 -> ;<br>
 Task 017 -> ;<br>
