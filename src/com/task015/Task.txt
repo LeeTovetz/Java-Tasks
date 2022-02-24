@@ -1,0 +1,1 @@
+Task 015 -> Print the multiplication table by 5;
