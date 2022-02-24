@@ -1,0 +1,5 @@
+Task 014 -> 
+Use the loop to calculate the factorial 
+of the number - n entered from the keyboard (4 < n < 16). 
+The factorial of a number is the product of all numbers 
+from that number to 1. For example 5!=54321=120;
