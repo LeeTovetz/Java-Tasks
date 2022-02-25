@@ -1,0 +1,1 @@
+Task 016 -> Display a rectangle of *. The height and width of the rectangle are entered using the keyboard. ;
