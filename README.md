@@ -20,7 +20,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task014" >Task 014</a> -> Use the loop to calculate the factorial of the number - n entered from the keyboard (4 < n < 16). The factorial of a number is the product of all numbers from that number to 1. For example 5!=5*4*3*2*1=120;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task015" >Task 015</a> -> Print the multiplication table by 5;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task016" >Task 016</a> -> Display a rectangle of *. The height and width of the rectangle are entered using the keyboard;<br>
-Task 017 -> Use loops to display all prime numbers from 1 to 100. A prime number is a number that is only divisible by one or by itself. The first prime numbers are 2,3,5,7...;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task017" >Task 017</a> -> Use loops to display all prime numbers from 1 to 100. A prime number is a number that is only divisible by one or by itself. The first prime numbers are 2,3,5,7...;<br>
 Task 018 -> ;<br>
 Task 019 -> ;<br>
 Task 020 -> ;<br>
