@@ -1,0 +1,4 @@
+Task 017 -> 
+Use loops to display all prime numbers from 1 to 100. 
+A prime number is a number that is only divisible by one or by itself. 
+The first prime numbers are 2,3,5,7...;
