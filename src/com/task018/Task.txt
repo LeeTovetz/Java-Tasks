@@ -1,0 +1,2 @@
+Task 018 -> 
+Given array {0,5,2,4,7,1,3,19} - write a program to count the odd digits in it;
