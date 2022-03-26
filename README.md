@@ -22,7 +22,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task016" >Task 016</a> -> Display a rectangle of *. The height and width of the rectangle are entered using the keyboard;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task017" >Task 017</a> -> Use loops to display all prime numbers from 1 to 100. A prime number is a number that is only divisible by one or by itself. The first prime numbers are 2,3,5,7...;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task018" >Task 018</a> -> Given array {0,5,2,4,7,1,3,19} - write a program to count the odd digits in it;<br>
-Task 019 -> Write code to make it possible to create an array of integers (the size to be entered from the keyboard) and to fill each element manually. Print the array on the screen;<br>
+<a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task019" >Task 019</a> -> Write code to make it possible to create an array of integers (the size to be entered from the keyboard) and to fill each element manually. Print the array on the screen;<br>
 Task 020 -> ;<br>
 ##
 Task 021 -> ;<br>
