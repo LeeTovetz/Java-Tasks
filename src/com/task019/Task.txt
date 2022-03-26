@@ -1,0 +1,4 @@
+Task 019 -> 
+Write code to make it possible to create an array of integers 
+(the size to be entered from the keyboard) and to fill each element manually. 
+Print the array on the screen;
