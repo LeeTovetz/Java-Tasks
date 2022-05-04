@@ -33,7 +33,7 @@ Task 021 -> Enter a string of text from the keyboard - implement a program to be
 to count the number of character - 'b' in this string,
 with the result displayed on the screen.;<br>
 Task 022 -> Write code to mirror the array (7,2,9,4) -> (4,9,2,7).
-- The array can be of any length. (You can't use an additional
+The array can be of any length. (You can't use an additional
 array when doing the task.);<br>
 Task 023 -> Write a method that returns the maximum number of an array of integers.;<br>
 Task 024 -> Implement a method whose parameters are an integer,
