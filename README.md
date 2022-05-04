@@ -23,27 +23,75 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task017" >Task 017</a> -> Use loops to display all prime numbers from 1 to 100. A prime number is a number that is only divisible by one or by itself. The first prime numbers are 2,3,5,7...;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task018" >Task 018</a> -> Given array {0,5,2,4,7,1,3,19} - write a program to count the odd digits in it;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task019" >Task 019</a> -> Write code to make it possible to create an array of integers (the size to be entered from the keyboard) and to fill each element manually. Print the array on the screen;<br>
-Task 020 -> ;<br>
+Task 020 Create an array of random numbers (size 15 elements).
+ Create a second array twice as big, the first 15 elements should be equal
+ to the elements of the first array, and fill the remaining elements with
+ the doubled value of the initial ones. For example There was - {1,4,7,2}
+ There was - {1,4,7,2,2,8,14,4}-> ;<br>
 ##
-Task 021 -> ;<br>
-Task 022 -> ;<br>
-Task 023 -> ;<br>
-Task 024 -> ;<br>
-Task 025 -> ;<br>
-Task 026 -> ;<br>
-Task 027 -> ;<br>
-Task 028 -> ;<br>
-Task 029 -> ;<br>
-Task 030 -> ;<br>
+Task 021 -> Enter a string of text from the keyboard - implement a program to be able
+to count the number of character - 'b' in this string,
+with the result displayed on the screen.;<br>
+Task 022 -> Write code to mirror the array (7,2,9,4) -> (4,9,2,7).
+- The array can be of any length. (You can't use an additional
+array when doing the task.);<br>
+Task 023 -> Write a method that returns the maximum number of an array of integers.;<br>
+Task 024 -> Implement a method whose parameters are an integer,
+a real number, and a string. It returns the concatenation of
+a string with the sum of a real and an integer.;<br>
+Task 025 -> Implement a method that draws a rectangle of asterisks "*"
+on the screen - its parameters will be integers that describe
+the length and width of such a rectangle.;<br>
+Task 026 -> Write a method that implements a linear search for an element
+in an array of integers. If there is such an element in the array
+then return its index, if not then the method should return number - "-1".;<br>
+Task 027 -> Write a method that returns the number of words in a line of text.;<br>
+Task 028 -> There are such sequences of numbers
+ 0,2,4,6,8,10,12
+ 1,4,7,10,13
+ 1,2,4,8,16,32
+ 1,3,9,27
+ 1,4,9,16,25
+ 1,8,27,64,125
+ Implement a program that outputs the next member
+ of this sequence (or a similar one). For example,
+ the user enters the string 0,2,4,6,8,10,12
+ and the answer should be 14.;<br>
+Task 029 -> A palindrome number reads the same on both
+sides (right to left and left to right).
+The largest palindrome number obtained by multiplying
+two two two-digit numbers is -9009 = 91 x 99.
+Find the largest palindrome obtained by multiplying two three-digit numbers.;<br>
+Task 030 -> There is an array {1,2,3,4,5} - the size of the array can be arbitrary.
+Write a program that will display all possible combinations of these numbers.
+Note that there should be no repeats.;<br>
 ##
-Task 031 -> ;<br>
-Task 032 -> ;<br>
-Task 033 -> ;<br>
-Task 034 -> ;<br>
-Task 035 -> ;<br>
-Task 036 -> ;<br>
-Task 037 -> ;<br>
-Task 038 -> ;<br>
-Task 039 -> ;<br>
-Task 040 -> ;<br>
-Task 041 -> ;<br>
+Task 031 -> Write a program that returns the number of milliseconds
+that have elapsed from the same number, but last month to
+today's date. For example, if today is August 3,
+find out how many milliseconds have passed since July 3.;<br>
+Task 032 -> Write your own variant of Arrays.toString() method for int[].;<br>
+Task 033 -> Enter a number in binary format from the console.
+Convert it to decimal and display it on the screen ("10" -> 2).;<br>
+Task 034 -> Print 10 lines with the value of pi on the screen.
+The first line should have 2 decimal places, the second 3,
+the third 4, etc.;<br>
+Task 035 -> Enter the date from the console. Compare it with the current
+date in the system. Print the different parts (year, month)
+on the screen.;<br>
+Task 036 -> The Hamming distance between two binary numbers
+is the number of positions where the bits differ.
+Given two positive integers (M, M) in decimal form.
+You need to calculate the Hamming distance between these two numbers.;<br>
+Task 037 -> Create a console "text editor" with the ability to save typed text to a file.;<br>
+Task 038 -> Write a method to save a two-dimensional array of integers to a text file.;<br>
+Task 039 -> Implement a method that will display a list of all
+directories that "lie" in the directory which will be
+the parameter of this method.;<br>
+Task 040 -> Read from a text file the text in English and print
+statistics on the frequency of use of letters in the text
+(i.e. letter - number of uses), with the letters used
+most often being displayed first.;<br>
+Task 041 -> Write a method for creating an ASCII-art in a file,
+i.e. a 40x40 character figure filled with characters
+that form a pattern.;<br>
