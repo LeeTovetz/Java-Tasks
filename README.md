@@ -1,4 +1,4 @@
-**Tasks in Java Start and Java OOP level.**<br>
+**Tasks in Java Start.**<br>
 
 The course will cover Java fundamentals such as Java Core, collections, multithreading,<br>
  OOP, design patterns,basic algorithms and data structures.<br>
