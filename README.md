@@ -96,3 +96,5 @@ most often being displayed first.;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task041" >Task 041</a> -> Write a method for creating an ASCII-art in a file,
 i.e. a 40x40 character figure filled with characters
 that form a pattern.;<br>
+
+Task 042</a> -> ;<br>
