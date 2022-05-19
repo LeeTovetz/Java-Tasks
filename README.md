@@ -2,7 +2,9 @@
 
 The course will cover Java fundamentals such as Java Core, collections, multithreading,<br>
  OOP, design patterns,basic algorithms and data structures.<br>
+ 
 ## 
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task001" >Task 001</a> -> 1. Read line 1; 2. Read line 2; 3. Read line 3; 4. Print on the screen: 1) S1 + S3; 2) S3 + S2 + S1; 3) S1 + S2 + S3;<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task002" >Task 002</a> -> Write a program that reads a 5-digit number from the keyboard and outputs the numbers it consists of. For example : It reads the number 54698;<br>
@@ -16,42 +18,65 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task006" >Task 006</a> -> There is a nine-story house with four entrances. The number of the entryway begins with one. There are 4 apartments on one floor. Write a program that gets the number of the apartment from the keyboard, and displays on the screen what floor, what entryway is this apartment. If there is no such apartment in this house, you need to inform the user about it;<br>
 
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task007" >Task 007</a> -> Determine the number of days in the year that the user enters. A leap year has 366 days, while a normal year has 365 days. Leap years are all years divisible by 4 with the exception of centuries, which are not divisible by 400;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task008" >Task 008</a> ->  A triangle exists only if the sum of any two sides is greater than the third. Given: a, b, c are the sides of the supposed triangle. Write a program that indicates "whether such a triangle exists or not";<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task009" >Task 009</a> -> There is a circle with center at the origin and radius 4. The user enters the coordinates of the point x and y from the keyboard. Write a program that determines whether this point lies within the circle or not;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task010" >Task 010</a> -> This triangle has coordinates of vertices A(0,0), B(4,4), C(6,1). The user enters the coordinates of the points x and y on the keyboard. Write a program that determines whether this point lies within the triangle or not;<br>
+
 ##
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task011" >Task 011</a> -> A four-digit number is given. Check if it is a "lucky ticket". A lucky ticket is a number in which - with an even number of digits in the number, the sum of digits in its left half is equal to the sum of digits in its right half. For example, 1322. (1+3 = 2 + 2);<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task012" >Task 012</a> -> A six-digit number is entered from the keyboard. Check to see if it is a palindrome. Note: A palindrome is a number, word, or text that reads equally from left to right and right to left. For example, the numbers are 143341, 5555, 7117, etc.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task013" >Task 013</a> -> Use cycles to draw the "wallpaper". And the number of strips must be entered from the keyboard;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task014" >Task 014</a> -> Use the loop to calculate the factorial of the number - n entered from the keyboard (4 < n < 16). The factorial of a number is the product of all numbers from that number to 1. For example 5!=5*4*3*2*1=120;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task015" >Task 015</a> -> Print the multiplication table by 5;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task016" >Task 016</a> -> Display a rectangle of *. The height and width of the rectangle are entered using the keyboard;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task017" >Task 017</a> -> Use loops to display all prime numbers from 1 to 100. A prime number is a number that is only divisible by one or by itself. The first prime numbers are 2,3,5,7...;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task018" >Task 018</a> -> Given array {0,5,2,4,7,1,3,19} - write a program to count the odd digits in it;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task019" >Task 019</a> -> Write code to make it possible to create an array of integers (the size to be entered from the keyboard) and to fill each element manually. Print the array on the screen;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task020" >Task 020</a> -> Create an array of random numbers (size 15 elements).
  Create a second array twice as big, the first 15 elements should be equal
  to the elements of the first array, and fill the remaining elements with
  the doubled value of the initial ones. For example There was - {1,4,7,2}
  There was - {1,4,7,2,2,8,14,4}-> ;<br>
+ 
 ##
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task021" >Task 021</a> -> Enter a string of text from the keyboard - implement a program to be able
 to count the number of character - 'b' in this string,
 with the result displayed on the screen.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task022" >Task 022</a> -> Write code to mirror the array (7,2,9,4) -> (4,9,2,7).
 The array can be of any length. (You can't use an additional
 array when doing the task.);<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task023" >Task 023</a> -> Write a method that returns the maximum number of an array of integers.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task024" >Task 024</a> -> Implement a method whose parameters are an integer,
 a real number, and a string. It returns the concatenation of
 a string with the sum of a real and an integer.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task025" >Task 025</a> -> Implement a method that draws a rectangle of asterisks "*"
 on the screen - its parameters will be integers that describe
 the length and width of such a rectangle.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task026" >Task 026</a> -> Write a method that implements a linear search for an element
 in an array of integers. If there is such an element in the array
 then return its index, if not then the method should return number - "-1".;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task027" >Task 027</a> -> Write a method that returns the number of words in a line of text.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task028" >Task 028</a> -> There are such sequences of numbers
  0,2,4,6,8,10,12
  1,4,7,10,13
@@ -63,15 +88,19 @@ then return its index, if not then the method should return number - "-1".;<br>
  of this sequence (or a similar one). For example,
  the user enters the string 0,2,4,6,8,10,12
  and the answer should be 14.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task029" >Task 029</a> -> A palindrome number reads the same on both
 sides (right to left and left to right).
 The largest palindrome number obtained by multiplying
 two two two-digit numbers is -9009 = 91 x 99.
 Find the largest palindrome obtained by multiplying two three-digit numbers.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task030" >Task 030</a> -> There is an array {1,2,3,4,5} - the size of the array can be arbitrary.
 Write a program that will display all possible combinations of these numbers.
 Note that there should be no repeats.;<br>
+
 ##
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task031" >Task 031</a> -> Write a program that returns the number of milliseconds
 that have elapsed from the same number, but last month to
 today's date. For example, if today is August 3,
