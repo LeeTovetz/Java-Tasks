@@ -131,58 +131,7 @@ most often being displayed first.;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task041" >Task 041</a> -> Write a method for creating an ASCII-art in a file,
 i.e. a 40x40 character figure filled with characters
 that form a pattern.;<br>
-Task 042</a> -> ;<br>
-Task 043</a> -> ;<br>
-Task 044</a> -> ;<br>
-Task 045</a> -> ;<br>
-Task 046</a> -> ;<br>
-Task 047</a> -> ;<br>
-Task 048</a> -> ;<br>
-Task 049</a> -> ;<br>
-Task 050</a> -> ;<br>
-##
-Task 051</a> -> ;<br>
-Task 052</a> -> ;<br>
-Task 053</a> -> ;<br>
-Task 054</a> -> ;<br>
-Task 055</a> -> ;<br>
-Task 056</a> -> ;<br>
-Task 057</a> -> ;<br>
-Task 058</a> -> ;<br>
-Task 059</a> -> ;<br>
-Task 060</a> -> ;<br>
-##
-Task 061</a> -> ;<br>
-Task 062</a> -> ;<br>
-Task 063</a> -> ;<br>
-Task 064</a> -> ;<br>
-Task 065</a> -> ;<br>
-Task 066</a> -> ;<br>
-Task 067</a> -> ;<br>
-Task 068</a> -> ;<br>
-Task 069</a> -> ;<br>
-Task 070</a> -> ;<br>
-##
-Task 071</a> -> ;<br>
-Task 072</a> -> ;<br>
-Task 073</a> -> ;<br>
-Task 074</a> -> ;<br>
-Task 075</a> -> ;<br>
-Task 076</a> -> ;<br>
-Task 077</a> -> ;<br>
-Task 078</a> -> ;<br>
-Task 079</a> -> ;<br>
-Task 080</a> -> ;<br>
-##
-Task 081</a> -> ;<br>
-Task 082</a> -> ;<br>
-Task 083</a> -> ;<br>
-Task 084</a> -> ;<br>
-Task 085</a> -> ;<br>
-Task 086</a> -> ;<br>
-Task 087</a> -> ;<br>
-Task 088</a> -> ;<br>
-Task 089</a> -> ;<br>
+
 ##
 
 
