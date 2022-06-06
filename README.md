@@ -145,7 +145,3 @@ that form a pattern.;<br>
 ##
 
 
-
-
-
-
