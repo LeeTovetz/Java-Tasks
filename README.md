@@ -105,29 +105,39 @@ Note that there should be no repeats.;<br>
 that have elapsed from the same number, but last month to
 today's date. For example, if today is August 3,
 find out how many milliseconds have passed since July 3.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task032" >Task 032</a> -> Write your own variant of Arrays.toString() method for int[].;<br>
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task033" >Task 033</a> -> Enter a number in binary format from the console.
 Convert it to decimal and display it on the screen ("10" -> 2).;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task034" >Task 034</a> -> Print 10 lines with the value of pi on the screen.
 The first line should have 2 decimal places, the second 3,
 the third 4, etc.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task035" >Task 035</a> -> Enter the date from the console. Compare it with the current
 date in the system. Print the different parts (year, month)
 on the screen.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task036" >Task 036</a> -> The Hamming distance between two binary numbers
 is the number of positions where the bits differ.
 Given two positive integers (M, M) in decimal form.
 You need to calculate the Hamming distance between these two numbers.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task037" >Task 037</a> -> Create a console "text editor" with the ability to save typed text to a file.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task038" >Task 038</a> -> Write a method to save a two-dimensional array of integers to a text file.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task039" >Task 039</a> -> Implement a method that will display a list of all
 directories that "lie" in the directory which will be
 the parameter of this method.;<br>
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task040" >Task 040</a> -> Read from a text file the text in English and print
 statistics on the frequency of use of letters in the text
 (i.e. letter - number of uses), with the letters used
 most often being displayed first.;<br>
+
 ##
+
 <a href="https://github.com/LeeTovetz/Java-Tasks/tree/main/src/com/task041" >Task 041</a> -> Write a method for creating an ASCII-art in a file,
 i.e. a 40x40 character figure filled with characters
 that form a pattern.;<br>
